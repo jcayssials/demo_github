@@ -1,5 +1,7 @@
-﻿Bonjour,
+﻿Bonjour monsieur,
 
 modif 8 mai 16:55
-test
 
+<<<<<<< HEAD
+=======
+>>>>>>> master
